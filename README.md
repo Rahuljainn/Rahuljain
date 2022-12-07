@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Rahul jain
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...Node.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📝 I am active on LinkedIn: www.linkedin.com/in/rahul-jainn
+- lets connect...!
 
 <!---
 Rahuljainn/Rahuljainn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
