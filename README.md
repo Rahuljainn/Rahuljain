@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rahul jain
 - 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...Node.js
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ...Web Development
 - 📝 I am active on LinkedIn: www.linkedin.com/in/rahul-jainn
 - lets connect...!
 
